@@ -21,6 +21,8 @@ schneller: weil der Plan, der einmal erstellt wird auch in Zukunft weiter verwen
 
 
 c) Views / Sichten 
+Sichten haben keine DAten sindern nur Abfragen..
+Sichten können wie Tabellen behandelt werden: SEL  INS DEL UP Securtiy
 Grund für Sicht: komplexe Abfragen, oder Security
 create view vName
 as
