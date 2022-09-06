@@ -100,6 +100,9 @@ früher = 0 = alle
 MAX RAM 
 Gesamt - Minus OS (mind 2 GB)
 
+MAX MEMORY wird sofort limitiert
+MIN MEMORY gilt erst wenn erreicht
+
 
 
 Filestreaming
